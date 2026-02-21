@@ -84,21 +84,6 @@ Install Piper separately and download a Hindi voice model.
 python3 main.py
 ```
 
----
-
-## 📂 Project Structure
-
-```
-offline-hindi-voice-assistant/
-│
-├── main.py
-├── audio_utils.py
-├── stt_whisper.py
-├── llm_inference.py
-├── tts_piper.py
-├── requirements.txt
-└── README.md
-```
 
 ---
 
