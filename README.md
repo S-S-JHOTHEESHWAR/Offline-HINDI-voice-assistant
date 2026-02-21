@@ -13,7 +13,7 @@
 ---
 
 ## 📌 Overview
-
+![blockdiagram](block.png)
 A fully offline, end-to-end **Speech-to-Speech AI Assistant** deployed on **Raspberry Pi 4 (8GB, ARM Cortex-A72)**.
 
 The system performs:
