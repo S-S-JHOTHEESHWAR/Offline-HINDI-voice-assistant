@@ -27,7 +27,7 @@ All processing runs entirely **on-device**, ensuring **privacy, low latency, and
 ---
 
 ## 🏗️ System Architecture
-
+![arch](HVA.png)
 ```
 USB Microphone (48 kHz PCM)
         ↓
